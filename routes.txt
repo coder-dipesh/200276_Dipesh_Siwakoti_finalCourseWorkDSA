@@ -1,0 +1,8 @@
+22;Gausala;gausala
+1;Baluwakhani;baluwakhani
+2;Akashadhara;Akashadhara chowk
+3;Nilo pul;Nilo pul
+4;Rato pul;Rato pul
+6;gyaneshwor;gyaneshwor
+7;Dillibazar;Dillibazar
+8;Softwarica;Softwarica
